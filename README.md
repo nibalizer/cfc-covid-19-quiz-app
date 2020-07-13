@@ -8,7 +8,7 @@ This tutorial shows you how to build a simple quiz app to assess learner underst
 
 Loopback is an open source tool for quickly building a data api for your applications. Whatever your specific application's purpose, Loopback gets you quickly writing application logic instead of data-handling code.
 
-![Quiz app interface](images/quiz-app.png)
+![Quiz app interface](img/quiz-app.png)
 
 You can find code and related files for this tutorial in the accompanying <a href="https://github.com/Call-for-Code/cfc-covid-19-quiz-app" target="\_blank">GitHub repo</a>.
 
